@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# custom
 notes.ipynb
+*.csv
+*.parquet
+
 # C extensions
 *.so
 
